@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ofima_Management", "Ofima_Management.csproj", "{B5ECFDFD-59CF-4BE9-8887-42C6324C6EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ECFDFD-59CF-4BE9-8887-42C6324C6EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ECFDFD-59CF-4BE9-8887-42C6324C6EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ECFDFD-59CF-4BE9-8887-42C6324C6EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ECFDFD-59CF-4BE9-8887-42C6324C6EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3AE319-51DE-4218-808D-4F92E5215009}
+	EndGlobalSection
+EndGlobal
